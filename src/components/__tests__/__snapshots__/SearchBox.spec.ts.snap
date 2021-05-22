@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBox matches the snapshot when mounted 1`] = `
+<div>
+  <form
+    action=""
+  >
+    <input
+      class="input"
+      id="searchBox"
+      type="text"
+    />
+     
+    <button
+      class="button is-primary"
+      id="searchSubmitButton"
+    >
+      Search
+    </button>
+  </form>
+</div>
+`;

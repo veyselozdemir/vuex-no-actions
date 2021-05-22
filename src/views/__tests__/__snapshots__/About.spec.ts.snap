@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About view matches snapshot 1`] = `
+<div>
+  <h1>
+    This is an about page
+  </h1>
+</div>
+`;

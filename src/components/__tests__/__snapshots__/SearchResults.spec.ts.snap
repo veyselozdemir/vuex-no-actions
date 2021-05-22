@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`when search is in progress displays the search in progress text 1`] = `
+<div><progress max="100"></progress>
+  <div style="display: none;">
+    go ahead and make a search
+  </div>
+  <div data-test-id="searchResults"></div>
+</div>
+`;
+
+exports[`when there are search results displays the search results 1`] = `
+<div><progress max="100" style="display: none;"></progress>
+  <div style="display: none;">
+    go ahead and make a search
+  </div>
+  <div data-test-id="searchResults">
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+    <div>
+      <resultitemdisplaycard-stub item="[object Object]"></resultitemdisplaycard-stub>
+    </div>
+  </div>
+</div>
+`;

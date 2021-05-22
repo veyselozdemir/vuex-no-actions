@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home component matches snapshot 1`] = `
+<div>
+  <searchbox-stub />
+   
+  <p>
+    Go ahead and make a search
+  </p>
+</div>
+`;
